@@ -1,0 +1,6 @@
+water,feet,lable
+1,1,Y
+1,1,Y
+1,0,N
+0,1,N
+0,1,N
